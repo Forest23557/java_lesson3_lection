@@ -8,7 +8,10 @@
 *.rar
 *.iml
 
+*.class
+
+*.log
+
 .idea/
 target/
 *.txt
-*.xml
